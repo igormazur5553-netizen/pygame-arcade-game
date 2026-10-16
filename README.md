@@ -25,7 +25,7 @@ A lightweight 2D arcade desktop application built with Python and Pygame, demons
 ## ⚙️ Installation & Launch
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/igormazur5553-netizen/pygame-arcade-game.git
    cd pygame-arcade-game
    ```
 
